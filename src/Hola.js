@@ -1,6 +1,6 @@
 
 function holaMundo() {
-    return "Hola, mundo";
+    return "Hola, mondo";
 }
 
 // Para mostrar el mensaje en la consola
